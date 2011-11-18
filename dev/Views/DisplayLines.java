@@ -81,7 +81,7 @@ public class DisplayLines extends ListActivity{
 		v.setTag(holder);
 		return v;
 		}
-		
+//random edit here		
 	public class ViewHolder{
 		Line line;
 		TextView mDisplayName;
